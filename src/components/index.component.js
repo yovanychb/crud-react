@@ -16,8 +16,7 @@ export default class Index extends Component {
       .catch(function (error) {
         console.log(error);
       })
-  }
-  
+  }  
 
   render() {
     return (
